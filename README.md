@@ -1,5 +1,10 @@
 # mtarturo
 
+This project was part of my mid-term assignment for my mobile app development class, and it allowed me to explore unique and thought-provoking concepts within the realm of app development.
+
+Creating an app for a restaurant that serves food resembling human flesh but is, of course, not human flesh, has been an intriguing and challenging experience. 
+#darkhumor
+
 A new Flutter project.
 
 ## Getting Started
